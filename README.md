@@ -90,7 +90,7 @@ Yeah, you read it right, i built drift tires for this. Fortunately a pipe in Ger
 
 # Formula-Student-Mini
 Maybe we can establish a formula competition which is about small, extremely low cost and high powered vehicles. At my University we set up some rules. Some are for safety, some are to harmonize cars and some are for fun.
-- Rules 
+- Rules https://github.com/Kowitzki/Four-Wheel-Bobbycar/blob/main/Formula%20Student%20Mini%20-%20Rules%20V1.pdf
 
 
 
