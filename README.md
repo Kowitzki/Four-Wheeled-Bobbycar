@@ -92,6 +92,8 @@ Yeah, you read it right, i built drift tires for this. Fortunately a pipe in Ger
 Maybe we can establish a formula competition which is about small, extremely low cost and high powered vehicles. At my University we set up some rules. Some are for safety, some are to harmonize cars and some are for fun.
 - Rules https://github.com/Kowitzki/Four-Wheel-Bobbycar/blob/main/Formula%20Student%20Mini%20-%20Rules%20V1.pdf
 
+We have a Telegram Group for the Bobbycars, get in there, maybe someone will help you: https://t.me/FormulaStudentMini
+
 
 
 # Known Problems
