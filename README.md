@@ -4,7 +4,7 @@ There are many possible configurations to built a bobbycar like mine. So you can
 I recommend to use Hoverboards, you get them used for ~30€ a piece, and they contain almost everything you need. This includes the Motors, which are inside the wheels, the Motorcontroller, which can drive two wheels and the accumulator.
 The accumulators are pretty shitty, so not expect them to last very long. In a bobbycar they are overloaded. It helps if you put more of them in there. But you could use other types as well.
 
-The build process gets much easier if you take the rear wheel version instead of the four wheel version. You dont have to weld and you really dont need a seperate main controller. If you are not an electronics or mechanics expert, take the rear wheel version. You find it here: https://github.com/Kowitzki/Rear-Wheeled-Bobbycar
+The build process gets much easier if you take the rear wheel version instead of the four wheel version. You dont have to weld and you really dont need a seperate main controller. If you are not an electronics or mechanics expert, take the rear wheel version. You find it here: https://github.com/Kowitzki/Rear-Wheeled-Bobbycar  
 If you want to build this, keep in mind that 3kW is a lot of power and you can harm yourself or others easily. It does not have the safety a formula student car has, so please be careful at testing a new software. I highly recommend to implement a deadman switch, that ensures you really want the motors to spin.
 
 Keep in mind, this is illegal to drive on the street in many countries.
