@@ -36,7 +36,7 @@ From factory the Hoverboard Motorcontrollers are locked, so you have to unlock t
 
 
 ## Electronics
-I would say the electronics of my Bobbycar are pretty advanced, i can control the settings via bluetooth, i have Torque Shifting and a brake light. I would recommend you to not implement those features until it drives. Otherwise you could run into a few problems. These are the parts i used just so this instruction is complete. It would be far easier to take an arduino nano and two potentiometers and flash the arduino code you find in the repository here: https://github.com/EmanuelFeru/hoverboard-firmware-hack-FOC.
+I would say the electronics of my Bobbycar are pretty advanced, i can control the settings via bluetooth, i have Torque Shifting and a brake light. I would recommend you to not implement those features until it drives. Otherwise you could run into a few problems. These are the parts i used just so this instruction is complete. It would be far easier to take an arduino nano and two potentiometers and flash the arduino code you find in the repository here: https://github.com/EmanuelFeru/hoverboard-firmware-hack-FOC/tree/master/Arduino/hoverserial.
 
 Parts:
 - 2x Hoverboards
