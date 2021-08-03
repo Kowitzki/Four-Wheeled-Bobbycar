@@ -68,7 +68,7 @@ Links:
 
 
 ## Mechanics
-The provided CAD Model is built in Autodesk Inventor, but there you can also find a step export.
+The provided CAD Model is built in Autodesk Inventor, but there you can also find a step export later.
 
 ### Frame
 The Frame is built from 6mm and 21mm Plywood (Sperrholz), the kind with long fibres, not pressboard/particle board (Pressspan). Plywood is much more rigid.
