@@ -74,7 +74,7 @@ The provided CAD Model is built in Autodesk Inventor, but there you can also fin
 The Frame is built from 6mm and 21mm Plywood (Sperrholz), the kind with long fibres, not pressboard/particle board (Pressspan). Plywood is much more rigid.
 There are dxf-files under "Mechanics" for lasercutting. Cutting by Hand is also possible, therefor you need an A3 printer and a jigsaw.
 After cutting, 12mm parts are glued together out of 6mm pieces, then everything is pushed together and tightend by screws. Assembling the steering is not that easy, my bad.
-If you want your wood to last longer in the rain i recommend to paint it.
+If you want your wood to last longer in the rain i recommend you to paint it.
 
 ### Steering
 The uprights are printed using a 0.8mm or 1mm nozzle, a layer hight of 0.3mm and 60-80% infill. There are two options for the steering, one for normal driving and one for drifting. The options have a different geometry.
