@@ -54,7 +54,7 @@ Parts:
 - 1x 50k Resistor
 - Port Expander PCF8574A
 
-Schematic for Electronics:
+Schematic for Electronics: https://github.com/Kowitzki/Four-Wheeled-Bobbycar/blob/main/SchematicFourWheel.png
 
 
 Accumulator
